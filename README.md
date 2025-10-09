@@ -21,7 +21,7 @@ This Python script provides a robust object-oriented solution (`XMLConverter` cl
 
 ### 1\. File Setup
 
-1.  Save the Python code as a file (e.g., `edifact_converter.py`).
+1.  Save the Python code as a file (e.g., `delfor97a.py`).
 
 2.  Your raw EDIFACT message must be placed within the `edifact_message` multiline string at the end of the script:
 
