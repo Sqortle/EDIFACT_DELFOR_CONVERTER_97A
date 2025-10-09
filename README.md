@@ -43,7 +43,7 @@ This Python script provides a robust object-oriented solution (`XMLConverter` cl
 Run the script from your terminal:
 
 ```bash
-python3 edifact_converter.py
+python3 delfor97a.py
 ```
 
 ### 3\. Output
