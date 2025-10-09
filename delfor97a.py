@@ -172,6 +172,6 @@ edifact_message = """
 convert = XMLConverter(edifact_message)
 convert.indent(convert.root)
 tree = ET.ElementTree(convert.root)
-tree.write("/Users/mirza/Documents/delforoutput.xml", encoding="ISO-8859-1", xml_declaration=True)
-print("XML dosyası başarıyla oluşturuldu: delforoutput.xml")
+tree.write("delforoutput.xml", encoding="ISO-8859-1", xml_declaration=True)
+
 
